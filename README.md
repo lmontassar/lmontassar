@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-<!--
-**lmontassar/lmontassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate software developer with a keen interest in [Your Interests]. I love to explore new technologies and leverage them to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+<a href="https://github.com/lmontassar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmontassar&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/lmontassar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmontassar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="lmontassar's GitHub Stats" />
+</a>
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/lmontassar/lmontassar/blob/output/github-contribution-grid-snake.svg)
+
+## 🌱 I'm currently learning
+- Advanced Machine Learning techniques
+- Cloud Architecture
+- Blockchain Development
+
+## 💼 Skills
+- Project management
+- Strong decision maker
+- Complex problem solver
+- Creative design
+- Innovative
+- Service-focused
+
+## 📫 How to reach me:
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+
+## 💬 Ask me about
+- Software development
+- Tech consulting
+- Career advice in tech
+
+⭐️ From [lmontassar](https://github.com/lmontassar)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
