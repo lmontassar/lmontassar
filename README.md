@@ -22,7 +22,7 @@ I'm a passionate software developer with a keen interest in [Your Interests]. I 
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/lmontassar/lmontassar/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/lmontassar/lmontassar/output/snake.svg" alt="Snake animation" />
 
 ## 🌱 I'm currently learning
 - Advanced Machine Learning techniques
