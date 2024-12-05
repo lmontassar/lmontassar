@@ -50,8 +50,7 @@ I'm a passionate software developer with a keen interest in web development. I l
 
 ## 📫 How to reach me:
 - Email: lounissi.montassar@hootmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+- LinkedIn: [Lounissi Montassar](https://www.linkedin.com/in/montassar-lounissi-557109238/)
 
 ## 💬 Ask me about
 - Software development
